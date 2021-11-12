@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
+        <Title>
+            Book N' Go
+        </Title>
+        
+    </head>
+    <body>
+        
+        
+        <Header>
+            <div class="container">
+                <img src="assets/icons/logo.png" alt=logo class="logo">
+                <nav>
+                    <ul>
+                        <li><a href="#">Categorii</a></li>
+                        <li><a href="#">Best Sellers</a></li>
+                        <li><a href="#">Noi apărute</a></li>
+                        <li><a href="#">eBooks</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </Header>
+
+        <div class="banner">
+            
+            <p>
+                <img src="assets/books/bac 1.png">
+                Bacalaureat 2022. Limba si literatura romana. Invata singur! Teme de lucru pentru bacalaureat. Toate profilurile, toate filierele - Mihaela Dobos
+                
+
+            </p>
+        </div>
+        <div class="recomandari_bacalaureat">
+            <p>Recomandări Bacalaureat</p>
+        </div>
+        <div class="recomandari">
+            <li><a href="#">
+                Carte BAC 1
+                <img src="assets/books/bac 4.png">
+            </a></li>
+            <li><a href="#">
+                Carte BAC 2
+                <img src="assets/books/bac 2.png">
+            </a></li>
+            <li><a href="#">
+                Carte BAC 3
+                <img src="assets/books/bac 3.png">
+            </a></li>
+
+
+        </div>
+        </div>
+    </body>
+</html>
