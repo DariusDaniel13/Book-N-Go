@@ -41,15 +41,15 @@
         <div class="recomandari">
             <li><a href="#">
                 Carte BAC 1
-                <img src="assets/books/bac 4.png">
+                <img src="assets/Books/bac 4.png">
             </a></li>
             <li><a href="#">
                 Carte BAC 2
-                <img src="assets/books/bac 2.png">
+                <img src="assets/Books/bac 2.png">
             </a></li>
             <li><a href="#">
                 Carte BAC 3
-                <img src="assets/books/bac 3.png">
+                <img src="assets/Books/bac 3.png">
             </a></li>
 
 
